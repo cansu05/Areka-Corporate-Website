@@ -1,6 +1,6 @@
 import { Box, Typography } from "@mui/material";
 import type { TFunction } from "i18next";
-import appImg from "../../../assets/Areka-app.svg";
+import appImg from "../../../assets/areka-app.svg";
 import Title from "../../../components/Title";
 
 const AppSection = ({ t }: { t: TFunction }) => {

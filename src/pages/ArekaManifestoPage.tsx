@@ -1,5 +1,5 @@
 import { Container, Typography, Box } from "@mui/material";
-import ArekaUnicorn from "../assets/Areka-unicorn.svg";
+import ArekaUnicorn from "../assets/areka-unicorn.svg";
 import Seo from "../components/Seo";
 import { useTranslation } from "react-i18next";
 import { useParams } from "react-router-dom";
@@ -18,7 +18,7 @@ const ArekaManifestoPage = () => {
         title={t("manifesto.seo.title")}
         description={t("manifesto.seo.description")}
         canonical={`/${lang}/${slug}`}
-        ogImage="../../public/og/Areka-unicorn-og.jpg"
+        ogImage="/og/areka-unicorn-og.jpg"
       />
 
       <Box

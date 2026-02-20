@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import ArekaVideo from "../../../assets/Areka-video.mp4";
+import ArekaVideo from "../../../assets/areka-video.mp4";
 
 const Hero = () => {
   return (
