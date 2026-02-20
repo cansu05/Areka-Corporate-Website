@@ -4,12 +4,12 @@ Bireysel ve kurumsal karbon ayak izini ölçen, dengeleme süreçlerini görün�
 
 ## 🚀 Özellikler
 
-✨ React + Vite tabanlı hızlı arayüz
-🌍 Türkçe / İngilizce dil desteği (i18next)
-🧭 Çok sayfalı yapı: Anasayfa, Hakkımızda, Manifesto, İletişim
-🧾 SEO meta yönetimi ve sayfa bazlı içerik
-🎨 MUI tabanlı responsive bileşenler
-📬 İletişim formu ve ofis konum bilgileri
+- ✨ React + Vite tabanlı hızlı arayüz
+- 🌍 Türkçe / İngilizce dil desteği (i18next)
+- 🧭 Çok sayfalı yapı: Anasayfa, Hakkımızda, Manifesto, İletişim
+- 🧾 SEO meta yönetimi ve sayfa bazlı içerik
+- 🎨 MUI tabanlı responsive bileşenler
+- 📬 İletişim formu ve ofis konum bilgileri
 
 ## 🛠️ Teknolojiler
 
