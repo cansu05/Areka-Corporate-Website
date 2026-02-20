@@ -1,0 +1,283 @@
+﻿{
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "manifesto": "Neye İnanıyoruz?",
+    "contact": "İletişim"
+  },
+
+  "footer": {
+    "legal": {
+      "terms": "Kullanım Koşulları",
+      "privacy": "Gizlilik Politikası",
+      "distanceSales": "Mesafeli Satış Sözleşmesi"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter / X",
+      "instagram": "Instagram"
+    }
+  },
+
+  "manifesto": {
+    "seo": {
+      "title": "Greencorn Manifestosu | Areka Carbon Hub",
+      "description": "Areka'nın greencorn manifestosu: büyüdükçe gezegenin karbon dengesini ölçülebilir şekilde iyileştiren yeni nesil iklim teknolojisi yaklaşımı."
+    },
+    "imageAlt": "Areka Greencorn Manifestosu illüstrasyonu",
+    "title": "Areka'nın “Greencorn” Manifestosu",
+    "p1": "Gezegeni yeniden dengelemeye yardımcı olmak için ortaya koyduğumuz bir kavram",
+    "p2": "İklim teknolojisinin geleceğini tanımlamakta mevcut etiketlerin yetersiz kaldığını fark ettik. Bu yüzden yeni bir kavram ürettik: greencorn. Bu kavram sadece milyar dolarlık bir değerlemeye ulaşan değil, aynı zamanda büyüdükçe dünyayı ölçülebilir şekilde iyileştiren vizyoner girişimleri ifade ediyor. Kavramı biz oluşturduk ve Areka bunun ilk örneği oldu.",
+    "p3": "İnsanlık, tarihindeki en büyük karbon baskısıyla karşı karşıya. Emisyonlar hâlâ artıyor ve karbon artık sadece bilimsel bir ölçüt değil; aynı zamanda stratejik bir ekonomik gösterge haline geldi. Bu yeni denklemde, başarı finansal kazancı gezegenin karbon dengesini yeniden kurmakla birleştiren projelere ait. İşte tam da burada Areka'nın greencorn yaklaşımı devreye giriyor.",
+    "subtitle": "Areka ne yapıyor?",
+    "p4": "Platformumuz, yapay zekâ destekli karbon ayak izi motorunu blockchain seviyesinde şeffaflık ile birleştirerek işletmeleri ve bireyleri bağlayan kesintisiz bir ekosistem oluşturuyor. İster bir e-ticaret alışverişi, ister akaryakıt alımı, ister dijital bir ödeme olsun, her işlem Areka'nın API'leri sayesinde saniyeler içinde dengelenebiliyor. Karbon etkisini azaltmak günlük yaşamın doğal bir parçası haline geliyor, zahmetli bir raporlama egzersizi olmaktan çıkıyor.",
+    "p5": "Modeli benzersiz kılan şey, kitlesel katılıma odaklanmasıdır. Areka karbon kredilerini küçük dijital parçalara bölerek kullanıcıların bir kahve kadar küçük bir CO2 miktarını bile dengelemesini sağlıyor. Bir müşteri aylık elektrik faturasını tarıyor, birkaç kez dokunuyor ve etkisini dengeliyor; uygulamanın davranışsal içgörüleri ise önce azaltmaya, ardından kalan kısmı dengelemeye teşvik ediyor.",
+    "p6": "Geleceğe dair vizyonumuz net: karbon dengeleme pasif bir bağış değil, canlı bir ekonomik işlem olmalı. Düzenlemelere uygun sertifikasyon, gerçek zamanlı muhasebe ve iddialı bir genişleme planıyla greencorn hareketini Türkiye'den tüm gelişen pazarlara yaymayı hedefliyoruz.",
+    "p7": "Sonuçta, Areka'nın greencorn manifestosu yalnızca bir teknoloji iddiası değil, kolektif bir davettir. Daha dengeli bir gezegen - ekonomik ve ekolojik açıdan - günlük tercihlerimizde yatıyor.",
+    "p8": "Areka aracılığıyla bu dönüşüme katılmak hiç bu kadar kolay olmamıştı; gelin, dünyayı iyileştirirken birlikte büyüyelim."
+  },
+
+  "homePage": {
+    "seo": {
+      "title": "Areka Carbon Hub | Karbon Ayak İzi Ölç, Doğrula, Dengele",
+      "description": "Areka, bireysel ve kurumsal emisyonları anlık olarak ölçer; blokzincir doğrulamasıyla şeffaf ve izlenebilir dengeleme ve sertifika süreci sunar."
+    },
+    "hero": {
+      "title": "Karbon Etkini Anında Gör, Blokzincirde Güvence Altına Al",
+      "subtitle": "Bireysel ve kurumsal emisyonları anlık olarak ölçer, blokzincirle doğrular ve izlenebilir sertifikalara dönüştürür."
+    },
+
+    "appSection": {
+      "imageAlt": "Areka karbon ayak izi yönetim paneli ve mobil uygulama ekranları",
+      "title": "Karbon Ayak İzinizi Şeffafça Yönetin",
+      "subtitle": "Areka, tüm emisyon verilerinizi güvenli, doğrulanabilir ve izlenebilir hale getirir."
+    },
+
+    "AboutArekaSection": {
+      "imageAlt": "Karbon dengesini ve sürdürülebilir geleceği simgeleyen Areka görseli",
+      "p1": "Areka, karbon piyasalarındaki güven ve şeffaflık krizine doğrudan çözüm sunar. API tabanlı altyapısıyla bireylerin ve kurumların karbon ayak izini anında hesaplar ve bu etkiyi dengelenebilir bir sürece dönüştürür.",
+      "p2": "Blokzincir teknolojisi sayesinde karbon kredilerini mikro birimlere ayırır; erişimi, izlenebilirliği ve doğrulamayı herkes için açık ve eşit hale getirir.",
+      "p3": "Areka, karbon piyasasında güvene, bütünlüğe ve demokratik dengeye dayalı bir yapı sağlar."
+    },
+    "individualImpact": {
+      "imageAlt1": "Sanayi kaynaklı karbon salımını gösteren fabrika bacası",
+      "imageAlt2": "İklim değişikliğinin etkisini gösteren eriyen buzullar",
+      "title": "Areka Neden Bireysel Karbon Ayak İzini Ölçüyor?",
+      "p1": "Sanayi ve enerji sektörleri iklim politikalarının odağında olsa da, ülkemizde bireysel emisyonlar toplamı yaklaşık 570 milyon ton CO2 seviyesinde ve bu miktar sanayi kaynaklı salımları aşıyor.",
+      "p2": "Bu görünmez etki, yarı yarıya azaltıldığında bile, ülke genelinde sanayi emisyonlarını dengeleyebilecek güçte.",
+      "p3": "Areka, bireysel emisyonların bu kritik rolünü görünür kılar; karbon ayak izini anlık olarak ölçer, şeffaf ve dengelenebilir hale getirir.",
+      "p4": "Böylece bireysel farkındalık, toplumsal ölçekte gerçek bir iklim pozitif etkiye dönüşür."
+    }
+  },
+
+  "aboutPage": {
+    "seo": {
+      "title": "Hakkımızda | Areka Carbon Hub",
+      "description": "Areka, bireysel ve kurumsal karbon ayak izini ölçen, blokzincir tabanlı doğrulama ve sertifikasyon ile güvenilir karbon dengeleme çözümleri sunan iklim teknolojisi platformudur."
+    },
+
+    "certificationSection": {
+      "title": "Doğrulanabilir Karbon Dengeleme Sertifikası",
+      "imageAlt": "Doğrulanabilir karbon dengeleme sertifikasının masaüstü ve mobil görünümü"
+    },
+
+    "whyArekaSection": {
+      "title": "Neden Areka?",
+      "imageAlt": "Areka'nın neden tercih edildiğini ve karbon dengeleme yaklaşımını açıklayan bilgi paneli",
+      "p1": "Hesapla - Kaydet - Dengele - Belgele yaklaşımı; karbon emisyonunun hesaplanması, kayıt altına alınması, dengelenmesi ve sertifikalandırılması süreçlerini tek bir bütüncül yapı altında sunar. Areka tüm bu adımları firmalar adına tek bir noktadan yöneterek, başka hiçbir bağımlılık olmadan çözüme ulaştırır.",
+      "p2": "Firmalar isterse kendi ölçümlerine dayanarak, kullanıcılarına ve ürünlerine ayrı ayrı dengeleme sertifikası oluşturabilir. Ürünlerine barkod olarak ekleyebilir veya kullanıcılarının Areka hesaplarına sertifika olarak gönderebilir.",
+      "p3": "Yalnızca yüksek bütünlüklü karbon kredileri, uluslararası standartlarla doğrulanmış, güvenilir ve ek etki yaratan projelerden kullanılır.",
+      "p4": "Blokzincir tabanlı doğrulama ile tüm dengeleme işlemleri şeffaf, izlenebilir ve değiştirilemez şekilde kayıt altına alınır.",
+      "p5": "Mikro birimlerle demokratik dengeleme: karbon kredileri mikro birimlere bölünerek bireysel katkılar net ve ölçülebilir hale getirilir.",
+      "p6": "Sertifikalı ve NFT ile kanıtlanabilir etki: her dengeleme işlemi, QR kod ve NFT doğrulaması içeren dijital sertifikalarla belgelenir.",
+      "p7": "Sürdürülebilirlik raporlamasına uyumlu yapı: dengeleme için kullanılan her bir sertifika, yıl sonunda hazırlanan sürdürülebilirlik ve etki raporlarında aktif olarak kullanılabilir ve raporlanabilir."
+    },
+
+    "ArekaWorkflowSection": {
+      "title": "Areka Nasıl Çalışır?",
+      "step1": {
+        "title": "Verini Gir",
+        "bullets": {
+          "p1": "Areka, günlük yaşamdan kaynaklanan karbon emisyonunu ölçmek için yalnızca gerekli temel verileri ister.",
+          "b1": "Ulaşım, iletişim ve tüketim verileri",
+          "b2": "Kişisel ve güvenli veri işleme",
+          "b3": "Veri toplama süreci, gizlilik ve güvenlik ilkeleri doğrultusunda sınırlandırılmıştır."
+        }
+      },
+      "step2": {
+        "title": "Karbon Ayak İzini Hesapla",
+        "bullets": {
+          "p1": "Areka, bireysel kullanıcıların mobil ve web uygulaması üzerinden, firmaların ise API entegrasyonu aracılığıyla sağladığı verilerle karbon emisyonlarını uluslararası metodolojilere göre anında hesaplar.",
+          "b1": "Ulaşım, iletişim ve tüketim verileri kullanılır",
+          "b2": "Her faaliyet için emisyon karşılığı sayısal olarak belirlenir",
+          "b3": "Toplam karbon ayak izi şeffaf biçimde ortaya konur"
+        }
+      },
+      "step3": {
+        "title": "Oluşan Emisyonu Dengele",
+        "bullets": {
+          "p1": "Hesaplanan karbon ayak izi, Areka tarafından yüksek bütünlüklü karbon kredileri ile dengelenir.",
+          "b1": "Uluslararası standartlarla doğrulanmış projeler kullanılır",
+          "b2": "Dengeleme işlemleri gerçek ve ölçülebilir iklim etkisine dayanır",
+          "p2": "Areka, güvenilirliği belirsiz karbon kredilerini kullanmaz."
+        }
+      },
+      "step4": {
+        "title": "Krediler Blockchain Üzerine Kaydedilir",
+        "bullets": {
+          "p1": "Dengeleme işlemi, blokzincir altyapısı sayesinde karbon kredilerini mikro birimlere ayırır.",
+          "b1": "Büyük karbon kredileri küçük, erişilebilir parçalara bölünür",
+          "b2": "Küçük katkılar iklim pozitif etki haline gelir",
+          "b3": "Firma, kullanıcı bazlı oluşturulan etkiyi açıkça görebilir"
+        }
+      },
+      "step5": {
+        "title": "Blokzincir ile Doğrula",
+        "bullets": {
+          "p1": "Tüm dengeleme işlemleri blokzincir üzerinde kayıt altına alınır.",
+          "b1": "Değiştirilemez kayıtlar",
+          "b2": "Şeffaf ve izlenebilir yapı",
+          "b3": "Çifte sayım ve güven problemleri ortadan kalkar",
+          "p2": "Bu sayede yapılan her dengeleme işlemi teknolojik olarak doğrulanabilir hale gelir."
+        }
+      },
+      "step6": {
+        "title": "Sertifikanı ve NFT Doğrulamanı Oluştur",
+        "bullets": {
+          "p1": "Her başarılı dengeleme işlemi için dijital bir karbon sertifikası üretilir.",
+          "b1": "Sertifika üzerinde QR kod bulunur",
+          "b2": "QR kod okutulduğunda ilgili NFT doğrulaması görüntülenir",
+          "b3": "Sertifika; kime ait olduğu, ne zaman üretildiği ve hangi projeye dayandığıyla birlikte doğrulanabilir",
+          "p2": "Bu yapı, karbon etkisini yalnızca beyan değil, kanıtlanabilir hale getirir."
+        }
+      }
+    },
+
+    "calculationAreasSection": {
+      "title": "Hesaplama Alanları",
+      "areas": {
+        "akaryakit": "Akaryakıt",
+        "havaYolu": "Hava Yolu",
+        "GSM": "GSM",
+        "harcama": "Harcama",
+        "otobüs": "Otobüs",
+        "faturalar": "Faturalar",
+        "krediler": "Krediler"
+      }
+    }
+  },
+
+  "contactPage": {
+    "seo": {
+      "title": "İletişim | Areka Carbon Hub",
+      "description": "Sorularınız ve iş birliği talepleriniz için Areka Carbon Hub ile iletişime geçin. E-posta ve ofis adresi bilgilerine buradan ulaşın."
+    },
+
+    "formSection": {
+      "title": "Bizimle İletişime Geçin",
+      "subtitle": "Areka ile ilgili sorularınız ve iletişim talepleriniz için her zaman yanınızdayız. Size en uygun şekilde geri dönüş sağlamaktan memnuniyet duyarız.",
+      "fields": {
+        "name": { "label": "İsim", "placeholder": "Adınız" },
+        "email": { "label": "E-posta", "placeholder": "E-posta adresiniz" },
+        "message": { "label": "Mesaj", "placeholder": "Mesajınızı yazın" }
+      },
+      "submit": "Gönder"
+    },
+
+    "contactCardSection": {
+      "message": {
+        "title": "Mesaj",
+        "description": "Sorularınız veya iş birliği talepleriniz için bizimle dilediğiniz zaman iletişime geçebilirsiniz.",
+        "value": "info@Areka.ai"
+      },
+      "location": {
+        "title": "Konum",
+        "description": "Ofisimizi ziyaret ederek yüz yüze iletişime geçebilirsiniz.",
+        "address": "Üniversiteler Mahallesi, 1597. Sk. Bilkent Center Cyberpark Cybergo No: 404, Çankaya / Ankara / Türkiye"
+      }
+    }
+  },
+
+  "termsPage": {
+    "seo": {
+      "title": "Kullanım Koşulları | Areka Carbon Hub",
+      "description": "Areka Carbon Hub kullanım koşulları; siteye erişim, içerik kullanımı, fikri mülkiyet hakları ve yasal sorumluluklara ilişkin şartları açıklar."
+    },
+    "p1": "Bu internet sitesine girmeniz veya bu internet sitesindeki herhangi bir bilgiyi kullanmanız aşağıdaki koşulları kabul ettiğiniz anlamına gelir.",
+    "p2": "Bu internet sitesine girilmesi, sitenin ya da sitedeki bilgilerin ve diğer verilerin, programların vs. kullanılması sebebiyle, sözleşmenin ihlali, haksız fiil ya da başkaca sebeplere binaen doğabilecek doğrudan ya da dolaylı hiçbir zarardan Areka Carbon Hub sorumlu değildir. Areka Carbon Hub, sözleşmenin ihlali, haksız fiil, ihmal veya diğer sebepler neticesinde; işlemin kesintiye uğraması, hata, ihmal, kesinti hususunda herhangi bir sorumluluk kabul etmez.",
+    "p3": "Areka Carbon Hub, işbu site ve site uzantısında mevcut her tür hizmet, ürün, siteyi kullanma koşulları ile sitede sunulan bilgileri önceden bir ihtara gerek olmaksızın değiştirme, siteyi yeniden organize etme veya yayını durdurma hakkını saklı tutar. Değişiklikler sitede yayım anında yürürlüğe girer. Sitenin kullanımı ya da siteye giriş ile bu değişiklikler de kabul edilmiş sayılır. Bu koşullar link verilen diğer web sayfaları için de geçerlidir.",
+    "p4": "Areka Carbon Hub, sözleşmenin ihlali, haksız fiil, ihmal veya diğer sebepler neticesinde; işlemin kesintiye uğraması, hata, ihmal, kesinti, silinme, kayıp, işlemin veya iletişimin gecikmesi, bilgisayar virüsü, iletişim hatası, hırsızlık, imha veya izinsiz olarak kayıtlara girilmesi, değiştirilmesi veya kullanılması hususunda herhangi bir sorumluluk kabul etmez.",
+    "p5": "Bu internet sitesi Areka Carbon Hub'ın kontrolü altında olmayan başka internet sitelerine bağlantı veya referans içerebilir. Areka Carbon Hub, bu sitelerin içerikleri veya içerdikleri diğer bağlantılardan sorumlu değildir.",
+    "p6": "Areka Carbon Hub, bu internet sitesinin genel görünüm ve dizaynı ile internet sitesindeki tüm bilgi, resim, marka, logo, ikon, yazılı, elektronik, grafik veya makinede okunabilir şekilde sunulan teknik veriler, bilgisayar yazılımları, uygulanan satış sistemi, iş metodu ve iş modeli de dahil tüm materyallerin ('Materyaller') ve bunlara ilişkin fikri ve sınai mülkiyet haklarının sahibi veya lisans sahibidir ve yasal koruma altındadır. İnternet sitesinde bulunan hiçbir Materyal; önceden izin alınmadan ve kaynak gösterilmeden, kod ve yazılım da dahil olmak üzere, değiştirilemez, kopyalanamaz, çoğaltılamaz, başka bir lisana çevrilemez, yeniden yayımlanamaz, başka bir bilgisayara yüklenemez, postalanamaz, iletilemez, sunulamaz ya da dağıtılamaz. İnternet sitesinin bütünü veya bir kısmı başka bir internet sitesinde izinsiz olarak kullanılamaz. Aksine hareketler hukuki ve cezai sorumluluğu gerektirir. Areka Carbon Hub'ın burada açıkça belirtilmeyen diğer tüm hakları saklıdır.",
+    "p7": "Areka Carbon Hub, dilediği zaman bu yasal uyarı sayfasının içeriğini güncelleme yetkisini saklı tutmaktadır ve kullanıcılarına siteye her girişte yasal uyarı sayfasını ziyaret etmelerini tavsiye etmektedir."
+  },
+
+  "privacyPage": {
+    "seo": {
+      "title": "Gizlilik Politikası | Areka Carbon Hub",
+      "description": "Areka Carbon Hub gizlilik politikası; kişisel verilerin toplanması, işlenmesi, saklanması ve KVKK kapsamındaki kullanıcı haklarını açıklar."
+    },
+
+    "intro": "Areka Carbon Hub olarak, kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik sözleşmesi, internet sitemizi kullanırken kişisel verilerinizin nasıl toplandığını, işlendiğini ve korunduğunu açıklamaktadır.",
+
+    "section1": {
+      "title": "1.Toplanan Bilgiler",
+      "p1": "Areka Carbon Hub, internet sitemizi kullanırken şu bilgileri toplayabilir:",
+      "b1": "Ad, soyad, e-posta adresi, telefon numarası gibi iletişim bilgileri",
+      "b2": "Site kullanımınıza ilişkin teknik veriler (IP adresi, tarayıcı bilgileri, çerez verileri)",
+      "b3": "Hizmetlerimizden yararlanırken sağladığınız diğer bilgiler"
+    },
+
+    "section2": {
+      "title": "2.Verilerin Kullanım Amaçları",
+      "p1": "Toplanan kişisel verileriniz şu amaçlarla kullanılabilir:",
+      "b1": "Size hizmetlerimizi sunmak ve geliştirmek",
+      "b2": "İletişim kurmak ve taleplerinizi yanıtlamak",
+      "b3": "Yasal yükümlülüklerimizi yerine getirmek",
+      "b4": "Kullanıcı deneyimini geliştirmek ve güvenliği sağlamak"
+    },
+
+    "section3": {
+      "title": "3.Verilerin Paylaşılması",
+      "p1": "Areka Carbon Hub, kişisel verilerinizi üçüncü kişilerle izinsiz paylaşmaz.",
+      "p2": "Yalnızca yasal zorunluluklar veya açık rızanız olması durumunda paylaşım yapılabilir.",
+      "p3": "Hizmet sağlayıcılarımız yalnızca gerekli olduğunda sınırlı erişim hakkına sahip olabilir."
+    },
+
+    "section4": {
+      "title": "4.Çerezler (Cookies)",
+      "p1": "Web sitemiz, kullanıcı deneyimini geliştirmek için çerezler kullanır.",
+      "p2": "Çerezleri tarayıcı ayarlarınızdan reddedebilir veya silebilirsiniz."
+    },
+
+    "section5": {
+      "title": "5.Verilerin Saklanma Süresi",
+      "p1": "Kişisel verileriniz, ilgili mevzuatın öngördüğü süre boyunca veya işleme amaçlarımız için gerekli olduğu süre boyunca saklanır.",
+      "p2": "Süre sonunda veriler güvenli bir şekilde silinir veya anonim hale getirilir."
+    },
+
+    "section6": {
+      "title": "6.Kullanıcı Hakları",
+      "p1": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında kullanıcılar:",
+      "b1": "Kişisel verilerinin işlenip işlenmediğini öğrenme",
+      "b2": "Verilerine erişim talep etme",
+      "b3": "Eksik veya hatalı işlenen verilerin düzeltilmesini isteme",
+      "b4": "Verilerinin silinmesini veya yok edilmesini talep etme",
+      "b5": "İşlemeye itiraz etme",
+      "p2": "Bu haklarınızı kullanmak için bizimle iletişime geçebilirsiniz: info@Areka.ai"
+    },
+
+    "section7": {
+      "title": "7.Güvenlik Önlemleri",
+      "p1": "Areka Carbon Hub, kişisel verilerinizi yetkisiz erişim, kayıp, yanlış kullanım veya ifşaya karşı korumak için gerekli tüm teknik ve idari önlemleri almaktadır."
+    },
+
+    "section8": {
+      "title": "8.Değişiklikler",
+      "p1": "Areka Carbon Hub, bu gizlilik sözleşmesini dilediği zaman güncelleme hakkını saklı tutar.",
+      "p2": "Güncellenmiş versiyon, yayım tarihi itibarıyla yürürlüğe girer."
+    },
+
+    "lastUpdated": "Son Güncelleme Tarihi: 19/08/2025"
+  }
+}

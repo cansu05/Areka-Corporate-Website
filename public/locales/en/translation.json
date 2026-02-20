@@ -1,0 +1,281 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "manifesto": "Our Manifesto",
+    "contact": "Contact"
+  },
+
+  "footer": {
+    "legal": {
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "distanceSales": "Distance Sales Agreement"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter / X",
+      "instagram": "Instagram"
+    }
+  },
+
+  "manifesto": {
+    "seo": {
+      "title": "Greencorn Manifesto | Areka Carbon Hub",
+      "description": "Areka’s greencorn manifesto: a next-generation climate technology approach that grows businesses while measurably restoring the planet’s carbon balance."
+    },
+    "imageAlt": "Illustration of the Areka Greencorn Manifesto",
+    "title": "Areka’s “Greencorn” Manifesto",
+    "p1": "A concept we introduced to help rebalance the planet.",
+    "p2": "We realized that existing labels are no longer sufficient to define the future of climate technology. That is why we introduced a new concept: greencorn. It represents visionary ventures that do not only reach billion-dollar valuations, but also measurably improve the world as they grow. We coined the concept, and Areka became its first example.",
+    "p3": "Humanity is facing the greatest carbon pressure in its history. Emissions continue to rise, and carbon is no longer just a scientific metric—it has become a strategic economic indicator. In this new equation, success belongs to projects that combine financial growth with restoring the planet’s carbon balance. This is exactly where Areka’s greencorn approach comes into play.",
+    "subtitle": "What does Areka do?",
+    "p4": "Our platform connects businesses and individuals through a seamless ecosystem by combining an AI-powered carbon footprint engine with blockchain-level transparency. Whether it is an e-commerce purchase, a fuel transaction, or a digital payment, every action can be offset within seconds via Areka’s APIs. Reducing carbon impact becomes a natural part of everyday life, rather than a burdensome reporting exercise.",
+    "p5": "What makes our model unique is its focus on mass participation. By breaking carbon credits into small digital units, Areka enables users to offset even a coffee-sized amount of CO₂. A customer scans their monthly electricity bill, taps a few times, and offsets their impact—while behavioral insights within the app first encourage reduction, and then offsetting what remains.",
+    "p6": "Our vision for the future is clear: carbon offsetting should not be a passive donation, but a living economic transaction. With regulation-compliant certification, real-time accounting, and an ambitious expansion plan, we aim to spread the greencorn movement from Türkiye to all emerging markets.",
+    "p7": "Ultimately, Areka’s greencorn manifesto is not merely a technological claim—it is a collective invitation. A more balanced planet—economically and ecologically—lies in our everyday choices.",
+    "p8": "Through Areka, joining this transformation has never been easier. Let’s grow together while healing the world."
+  },
+
+  "homePage": {
+    "seo": {
+      "title": "Areka Carbon Hub | Measure, Verify & Offset Carbon Footprint",
+      "description": "Areka measures individual and corporate emissions in real time, and enables transparent, traceable offsetting and certification with blockchain verification."
+    },
+    "hero": {
+      "title": "See Your Carbon Impact Instantly, Secure It on the Blockchain",
+      "subtitle": "Measures individual and corporate emissions in real time, verifies them through blockchain, and turns them into traceable certificates."
+    },
+
+    "appSection": {
+      "imageAlt": "Areka carbon footprint management dashboard and mobile app screens",
+      "title": "Manage Your Carbon Footprint Transparently",
+      "subtitle": "Areka makes all your emission data secure, verifiable, and traceable."
+    },
+
+    "AboutArekaSection": {
+      "imageAlt": "Visual representing carbon balance and a sustainable future",
+      "p1": "Areka directly addresses the trust and transparency crisis in carbon markets. With its API-based infrastructure, it instantly calculates the carbon footprint of individuals and organizations and transforms this impact into a balanceable process.",
+      "p2": "Through blockchain technology, it breaks carbon credits into micro units, making access, traceability, and verification open and equal for everyone.",
+      "p3": "Areka establishes a structure in the carbon market built on trust, integrity, and democratic balance."
+    },
+
+    "individualImpact": {
+      "imageAlt1": "Factory smokestack emitting industrial carbon emissions",
+      "imageAlt2": "Melting glaciers illustrating the impact of climate change",
+      "title": "Why Does Areka Measure Individual Carbon Footprints?",
+      "p1": "While industrial and energy sectors are at the center of climate policies, total individual emissions in our country reach approximately 570 million tons of CO₂—exceeding emissions from industrial sources.",
+      "p2": "Even when reduced by half, this often overlooked impact has the power to offset industrial emissions at a national scale.",
+      "p3": "Areka makes the critical role of individual emissions visible by measuring carbon footprints in real time and turning them into a transparent and balanceable process.",
+      "p4": "In this way, individual awareness transforms into a real, climate-positive impact at a societal level."
+    }
+  },
+
+  "aboutPage": {
+    "seo": {
+      "title": "About Us | Areka Carbon Hub",
+      "description": "Areka is a climate technology platform that measures individual and corporate carbon footprints and delivers transparent, blockchain-verified carbon offsetting and certification."
+    },
+
+    "certificationSection": {
+      "title": "Verifiable Carbon Offsetting Certificate",
+      "imageAlt": "Desktop and mobile view of a verifiable carbon offset certificate"
+    },
+
+    "whyArekaSection": {
+      "title": "Why Areka?",
+      "imageAlt": "Information panel explaining why Areka is chosen and its carbon offsetting approach",
+      "p1": "The Calculate – Record – Offset – Certify approach brings carbon emission calculation, recording, offsetting, and certification together in a single, holistic structure. Areka manages all these steps from one central point on behalf of companies, delivering a complete solution without any external dependencies.",
+      "p2": "Companies can create separate offset certificates for their users and products based on their own measurements. These certificates can be added to products as barcodes or sent directly to users’ Areka accounts as digital certificates.",
+      "p3": "Only high-integrity carbon credits are used—projects verified by international standards that are reliable and deliver real additional impact.",
+      "p4": "Blockchain-based verification ensures that all offsetting transactions are recorded transparently, traceably, and immutably.",
+      "p5": "Democratic offsetting through micro-units: carbon credits are divided into micro units, making individual contributions clear and measurable.",
+      "p6": "Certified and NFT-verifiable impact: every offsetting transaction is documented with digital certificates that include QR code and NFT verification.",
+      "p7": "Sustainability reporting–ready structure: each certificate used for offsetting can be actively included and reported in year-end sustainability and impact reports."
+    },
+
+    "ArekaWorkflowSection": {
+      "title": "How Does Areka Work?",
+      "step1": {
+        "title": "Enter Your Data",
+        "bullets": {
+          "p1": "Areka requests only the essential inputs needed to measure carbon emissions from daily life.",
+          "b1": "Transportation, communication, and consumption data",
+          "b2": "Personal and secure data processing",
+          "b3": "Data collection is limited in line with privacy and security principles."
+        }
+      },
+      "step2": {
+        "title": "Calculate Your Carbon Footprint",
+        "p1": "Areka instantly calculates carbon emissions based on international methodologies using data provided by individuals via the mobile and web app, and by companies via API integration.",
+        "b1": "Transportation, communication, and consumption data are used",
+        "b2": "An emission value is calculated for each activity",
+        "b3": "The total carbon footprint is presented transparently"
+      },
+      "step3": {
+        "title": "Offset the Resulting Emissions",
+        "bullets": {
+          "p1": "The calculated carbon footprint is offset by Areka using high-integrity carbon credits.",
+          "b1": "Projects verified under international standards are used",
+          "b2": "Offsetting is based on real and measurable climate impact",
+          "p2": "Areka does not use carbon credits with uncertain credibility."
+        }
+      },
+      "step4": {
+        "title": "Credits Are Recorded on the Blockchain",
+        "bullets": {
+          "p1": "Through blockchain infrastructure, the offsetting process breaks carbon credits into micro units.",
+          "b1": "Large carbon credits are split into smaller, accessible units",
+          "b2": "Small contributions become climate-positive impact",
+          "b3": "Each user can clearly see the impact created by the company"
+        }
+      },
+      "step5": {
+        "title": "Verify with the Blockchain",
+        "bullets": {
+          "p1": "All offsetting transactions are recorded on the blockchain.",
+          "b1": "Immutable records",
+          "b2": "Transparent and traceable structure",
+          "b3": "Double counting and trust issues are eliminated",
+          "p2": "This makes every offsetting transaction technically verifiable."
+        }
+      },
+      "step6": {
+        "title": "Generate Your Certificate and NFT Verification",
+        "bullets": {
+          "p1": "A digital carbon certificate is generated for every successful offsetting transaction.",
+          "b1": "The certificate includes a QR code",
+          "b2": "When the QR code is scanned, the related NFT verification is displayed",
+          "b3": "The certificate can be verified with details such as owner, issue date, and the underlying project",
+          "p2": "This structure makes carbon impact not just claimed, but provable."
+        }
+      }
+    },
+
+    "calculationAreasSection": {
+      "title": "Calculation Areas",
+      "areas": {
+        "akaryakıt": "Fuel",
+        "havaYolu": "Air Travel",
+        "GSM": "GSM",
+        "harcama": "Spending",
+        "otobüs": "Bus",
+        "faturalar": "Bills",
+        "krediler": "Loans"
+      }
+    }
+  },
+
+  "contactPage": {
+    "seo": {
+      "title": "Contact | Areka Carbon Hub",
+      "description": "Get in touch with Areka Carbon Hub for questions and partnership requests. Find our email and office address here."
+    },
+
+    "formSection": {
+      "title": "Get in Touch",
+      "subtitle": "We’re here for your questions and requests about Areka. We’ll be happy to get back to you in the way that suits you best.",
+      "fields": {
+        "name": { "label": "Name", "placeholder": "Your name" },
+        "email": { "label": "Email", "placeholder": "Your email address" },
+        "message": { "label": "Message", "placeholder": "Write your message" }
+      },
+      "submit": "Send"
+    },
+
+    "contactCardSection": {
+      "message": {
+        "title": "Message",
+        "description": "You can contact us anytime for your questions or collaboration requests.",
+        "value": "info@Areka.ai"
+      },
+      "location": {
+        "title": "Location",
+        "description": "You can visit our office and get in touch with us face to face.",
+        "address": "Üniversiteler Neighborhood, 1597th Street, Bilkent Center Cyberpark Cybergo No: 404, Çankaya / Ankara / Türkiye"
+      }
+    }
+  },
+
+  "termsPage": {
+    "seo": {
+      "title": "Terms of Use | Areka Carbon Hub",
+      "description": "The Areka Carbon Hub Terms of Use explain the conditions related to website access, content usage, intellectual property rights, and legal responsibilities."
+    },
+    "p1": "By accessing this website or using any information on this website, you agree to the terms and conditions set forth below.",
+    "p2": "Areka Carbon Hub shall not be liable for any direct or indirect damages arising from access to this website, use of the website, or use of the information and other data, programs, etc. contained herein, whether due to breach of contract, tort, or any other reason. Areka Carbon Hub accepts no responsibility for interruptions, errors, omissions, or delays resulting from breach of contract, tort, negligence, or other causes.",
+    "p3": "Areka Carbon Hub reserves the right to change, reorganize, or discontinue any services, products, terms of use, or information available on this website and its extensions without prior notice. Any changes become effective upon publication on the website. Use of or access to the website constitutes acceptance of these changes. These terms also apply to other web pages accessed via links.",
+    "p4": "Areka Carbon Hub accepts no responsibility for any interruption of operations, errors, omissions, interruptions, deletions, losses, delays in operation or communication, computer viruses, communication failures, theft, destruction, or unauthorized access to, alteration, or use of records arising from breach of contract, tort, negligence, or other causes.",
+    "p5": "This website may contain links or references to other websites not under the control of Areka Carbon Hub. Areka Carbon Hub is not responsible for the content of such websites or any other links they contain.",
+    "p6": "Areka Carbon Hub is the owner or licensee of all materials on this website, including but not limited to its overall appearance and design, all information, images, trademarks, logos, icons, written, electronic, graphic or machine-readable technical data, computer software, sales systems, business methods, and business models (the \"Materials\"), all of which are protected by intellectual and industrial property laws. None of the Materials on this website may be altered, copied, reproduced, translated into another language, republished, uploaded to another computer, posted, transmitted, presented, or distributed in any form, including code and software, without prior permission and proper attribution. Unauthorized use of all or part of this website on another website is prohibited. Any violation may result in legal and criminal liability. All rights not expressly stated herein are reserved by Areka Carbon Hub.",
+    "p7": "Areka Carbon Hub reserves the right to update the content of this legal notice page at any time and recommends that users review the legal notice page upon each visit to the website."
+  },
+
+  "privacyPage": {
+    "seo": {
+      "title": "Privacy Policy | Areka Carbon Hub",
+      "description": "The Areka Carbon Hub Privacy Policy explains how personal data is collected, processed, stored, and protected, including user rights under applicable data protection laws."
+    },
+    "intro": "At Areka Carbon Hub, we place great importance on the privacy of our users. This privacy policy explains how your personal data is collected, processed, and protected when you use our website.",
+
+    "section1": {
+      "title": "1.Information Collected",
+      "p1": "Areka Carbon Hub may collect the following information when you use our website:",
+      "b1": "Contact information such as name, surname, email address, and phone number",
+      "b2": "Technical data related to your website usage (IP address, browser information, cookie data)",
+      "b3": "Other information you provide while using our services"
+    },
+
+    "section2": {
+      "title": "2.Purposes of Data Use",
+      "p1": "Your collected personal data may be used for the following purposes:",
+      "b1": "To provide and improve our services",
+      "b2": "To communicate with you and respond to your requests",
+      "b3": "To fulfill our legal obligations",
+      "b4": "To enhance user experience and ensure security"
+    },
+
+    "section3": {
+      "title": "3.Sharing of Data",
+      "p1": "Areka Carbon Hub does not share your personal data with third parties without your consent.",
+      "p2": "Data may only be shared in cases of legal obligation or with your explicit consent.",
+      "p3": "Our service providers may have limited access to data only when necessary."
+    },
+
+    "section4": {
+      "title": "4.Cookies",
+      "p1": "Our website uses cookies to improve user experience.",
+      "p2": "You may refuse or delete cookies through your browser settings."
+    },
+
+    "section5": {
+      "title": "5.Data Retention Period",
+      "p1": "Your personal data is retained for the period required by applicable legislation or as long as necessary for our processing purposes.",
+      "p2": "After this period, the data is securely deleted or anonymized."
+    },
+
+    "section6": {
+      "title": "6.User Rights",
+      "p1": "Under the Turkish Personal Data Protection Law (KVKK), users have the right to:",
+      "b1": "Learn whether their personal data is being processed",
+      "b2": "Request access to their personal data",
+      "b3": "Request correction of incomplete or inaccurate data",
+      "b4": "Request deletion or destruction of their data",
+      "b5": "Object to the processing of their data",
+      "p2": "To exercise these rights, you may contact us at: info@Areka.ai"
+    },
+
+    "section7": {
+      "title": "7.Security Measures",
+      "p1": "Areka Carbon Hub takes all necessary technical and administrative measures to protect your personal data against unauthorized access, loss, misuse, or disclosure."
+    },
+
+    "section8": {
+      "title": "8.Changes",
+      "p1": "Areka Carbon Hub reserves the right to update this privacy policy at any time.",
+      "p2": "The updated version becomes effective as of its publication date."
+    },
+
+    "lastUpdated": "Last Updated: 26/12/2025"
+  }
+}
