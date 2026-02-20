@@ -1,6 +1,6 @@
-import { Box } from "@mui/material";
+﻿import { Box } from "@mui/material";
 import type { TFunction } from "i18next";
-import Image from "../../../assets/home-about-Areka.svg";
+import Image from "../../../assets/home-about-areka.svg";
 import BodyText from "../../../components/BodyText";
 
 const AboutArekaSection = ({ t }: { t: TFunction }) => {
@@ -37,3 +37,4 @@ const AboutArekaSection = ({ t }: { t: TFunction }) => {
   );
 };
 export default AboutArekaSection;
+

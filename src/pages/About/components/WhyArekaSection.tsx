@@ -1,5 +1,5 @@
-import { Box, Paper } from "@mui/material";
-import Image from "../../../assets/why-Areka.svg";
+﻿import { Box, Paper } from "@mui/material";
+import Image from "../../../assets/why-areka.svg";
 import type { TFunction } from "i18next";
 import Title from "../../../components/Title";
 import ListText from "../../../components/ListText";
@@ -50,3 +50,4 @@ const WhyArekaSection = ({ t }: { t: TFunction }) => {
   );
 };
 export default WhyArekaSection;
+
